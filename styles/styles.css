@@ -50,7 +50,7 @@ body {
     background: linear-gradient(267deg, #000080 1%, #8ed2f8 100%);
     background-clip: text;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: #000000;
 }
 
 .container {
@@ -330,3 +330,4 @@ footer .footer-top {
     margin-top: 1.5rem;
     font-size: 0.875rem;
 }
+
